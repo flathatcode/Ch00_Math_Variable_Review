@@ -1,4 +1,4 @@
-#FUNCTIONS (20PTS TOTAL)
+#FUNCTIONS (14PTS TOTAL)
 
 #PROBLEM 1 (Length of String - 3pts)
 # Make a function takes a string as a parameter, then prints the length of that string.
