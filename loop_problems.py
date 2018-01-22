@@ -1,4 +1,4 @@
-# LOOPS (22pts TOTAL)
+# LOOPS (16pts TOTAL)
 
 # PROBLEM 1 (Fibonacci - 4pts)
 ## The Fibonacci sequence is a sequence of numbers that starts with 1, followed by 1 again.
@@ -7,14 +7,7 @@
 # Write a program that calculates and prints the Fibonacci sequence
 # until the numbers get higher than 1000.
 
-
-# PROBLEM 2 (Using List Comprehensions - 6pts)
-# Use the list comprehension method to do the following:
-# a) Make a list of numbers from 1 to 100
-# b) Make a list of even numbers from 20 to 40
-# c) Make a list of squares from 1 to 100 (1 ** 2 to 100 ** 2)
-
-# PROBLEM 3 (Dice Sequence - 6pts)
+# PROBLEM 2 (Dice Sequence - 6pts)
 # You roll five six-sided dice, one by one.
 # What is the probability that the value of each die
 # is greater than OR EQUAL TO the value of the previous die that you rolled?
@@ -22,7 +15,7 @@
 # but “1, 1, 4, 3, 6” is not. Determine the
 # probability of success using a simulation of a large number of trials.
 
-# PROBLEM 4 (Number Puzzler - 6pts)
+# PROBLEM 3 (Number Puzzler - 6pts)
 # A, B, C, and D are all different digits.
 # The number DCBA is equal to 4 times the number ABCD.
 # What are the digits?
