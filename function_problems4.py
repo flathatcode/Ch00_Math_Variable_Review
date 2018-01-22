@@ -1,8 +1,9 @@
 #FUNCTIONS (14PTS TOTAL)
 
-#PROBLEM 1 (Length of String - 3pts)
-# Make a function takes a string as a parameter, then prints the length of that string.
-# Make a call to that function
+#PROBLEM 1 (how many upper case - 3pts)
+# Make a function takes a string as a parameter, then prints how many upper case letters are contained in the string.
+# A loop that compares each letter to the .upper() or .lower() of itself will suffice.
+# Make a call to that function using "Francis W. Parker" (it should print "3")
 
 # PROBLEM 2 (Biggest, smallest, average - 4pts)
 # Make a function which takes 3 numbers as parameters.
