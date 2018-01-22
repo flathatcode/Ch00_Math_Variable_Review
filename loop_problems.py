@@ -8,19 +8,16 @@
 # until the numbers get higher than 1000.
 
 
-# PROBLEM 2 (Number Guessing Game - 6pts)
-# Write a program that takes a random integer between 1 and 1000
-# The program then asks the user to guess the number.
-# After every guess, the program will say either “Lower”
-# if the number it took is lower, “Higher” if the number it took is higher,
-# and “You guessed it!” if the number it took is equal to the number
-# It might be wise, for testing purposes, to also display the number that the
-# program randomly picks, until you are sure that the program works correctly
+# PROBLEM 2 (Using List Comprehensions - 6pts)
+# Use the list comprehension method to do the following:
+# a) Make a list of numbers from 1 to 100
+# b) Make a list of even numbers from 20 to 40
+# c) Make a list of squares from 1 to 100 (1 ** 2 to 100 ** 2)
 
-# PROBLEM 3 (Dice Hi-Low - 6pts)
+# PROBLEM 3 (Dice Sequence - 6pts)
 # You roll five six-sided dice, one by one.
-# How big is the probability that the value of each die
-# is greater than or equal to the value of the previous die that you rolled?
+# What is the probability that the value of each die
+# is greater than OR EQUAL TO the value of the previous die that you rolled?
 # For example, the sequence “1, 1, 4, 4, 6” is a success,
 # but “1, 1, 4, 3, 6” is not. Determine the
 # probability of success using a simulation of a large number of trials.
@@ -30,4 +27,4 @@
 # The number DCBA is equal to 4 times the number ABCD.
 # What are the digits?
 # Note: to make ABCD and DCBA conventional numbers, neither A nor D can be zero.
-# Use a quadruple-nested loop to solve.
+# Use a quadruple-nested loop to solve. 
