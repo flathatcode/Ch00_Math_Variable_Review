@@ -1,11 +1,14 @@
 #LISTS (35PTS TOTAL)
-#In these exercises you write functions. Of course, you should not only write the functions,
-#you should also write code to test them. For practice, you should also comment your
-#functions as explained above.
+#In these exercises you should should use functions as practice
 
 
+# PROBLEM 1 (Using List Comprehensions - 6pts)
+# Use the list comprehension method to do the following:
+# a) Make a list of numbers from 1 to 100
+# b) Make a list of even numbers from 20 to 40
+# c) Make a list of squares from 1 to 100 (1 ** 2 to 100 ** 2)
 
-#PROBLEM 1 (8-ball - 5pts)
+#PROBLEM 2 (8-ball - 5pts)
 # A magic 8-ball, when asked a question, provides a random answer from a list.
 # The code below contains a list of possible answers. Create a magic 8-ball program that
 # prints a random answer.
@@ -18,24 +21,11 @@ count on it", "My reply is no", "My sources say no", "Outlook \
 not so good", "Very doubtful" ]
 
 
-# PROBLEM 2 (Shuffle - 5pts)
+# PROBLEM 3 (Shuffle - 5pts)
 # A playing card consists of a suit (Heart, Diamond, Club, Spade) and a value (2,3,4,5,6,7,8,9,10,J,Q,K,A).
 # Create a list of all possible playing cards, which is a deck.
 # Then create a function that shuffles the deck, producing a random order.
 
-
-# PROBLEM 3 (The sieve of Eratosthenes - 10pts)
-# The sieve of Eratosthenes is a method to find all prime numbers between
-# 1 and a given number using a list. This works as follows: Fill the list with the sequence of
-# numbers from 1 to the highest number. Set the value of 1 to zero, as 1 is not prime.
-# Now loop over the list. Find the next number on the list that is not zero,
-# which, at the start, is the number 2. Now set all multiples of this number to zero.
-# Then find the next number on the list that is not zero, which is 3.
-# Set all multiples of this number to zero. Then the next number, which is 5
-# (because 4 has already been set to zero), and do the same thing again.
-# Process all the numbers of the list in this way. When you have finished,
-# the only numbers left on the list are primes.
-# Use this method to determine all the primes between 1 and 1000.
 
 # PROBLEM 4 (Tic-Tac-Toe - 15pts)
 # Write a Tic-Tac-Toe program that allows two people to play the game against each other.
@@ -72,7 +62,7 @@ not so good", "Very doubtful" ]
 #       break
 #   switch player
 
-# CHALLENGE PROBLEM 5 (Battleship NO CREDIT, JUST IF YOU WANT TO TRY IT)
+# CHALLENGE PROBLEM 5 (MAY DO AS SUBSTITUTE FOR PROBLEM 4, NO ADDITIONAL CREDIT)
 # Create a program that is a simplified version of the game “Battleship.”
 # The computer creates (in memory) a grid that is 4 cells wide and 3 cells high.
 # The rows of the grid are numbered 1 to 3, and the columns of the grid are labeled A to D.
