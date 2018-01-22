@@ -1,12 +1,14 @@
-#SECTION 1 - MATH OPERATORS AND VARIABLES (31PTS TOTAL)
+# MATH OPERATORS AND VARIABLES (31PTS TOTAL)
+# Knock the rust off your Python skills
 
 # BASIC PROBLEMS 
 #PROBLEM 1 (From Math Class to Code - 5pts)
 # Print the answer to the math question:
 # 3(60x^2 + 3x/9) + 2x - 4/3(x) - sqrt(x)
 # where x = 12.83
+
 x = 12.83
-your_answer = "Enter the equation"
+your_answer = 0  # Substitute your equation for the zero
 print(your_answer)
 
 #PROBLEM 2 (Wholesale Books - 5pts)
@@ -22,14 +24,6 @@ print(your_answer)
 chair_price = 189.99
 tax_percent = 0.095
 units = 8
-
-#PROBLEM 4 (Area of Circle - 5pts)
-# Write code that can compute the area of circle.
-# Create variables for radius and pi (3.14159)
-# The formula, in case you do not know, is radius times radius times pi.
-# Print the outcome of your program as follows:
-# “The surface area of a circle with radius ... is ...”
-
 
 # INTERMEDIATE PROBLEMS
 #PROBLEM 2 (Set your alarm - 4pts)
