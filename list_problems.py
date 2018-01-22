@@ -1,5 +1,7 @@
-#LISTS (35PTS TOTAL)
+#LISTS (31PTS TOTAL)
 #In these exercises you should should use functions as needed.  All functions should have comments to describe their purpose.
+
+
 
 # PROBLEM 1 (Using List Comprehensions - 6pts)
 # Use the list comprehension method to do the following:
